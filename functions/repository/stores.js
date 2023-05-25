@@ -6,7 +6,7 @@ admin.database.enableLogging(true);
 
 admin.initializeApp({
     credential: admin.credential.cert(serviceccount),
-    databaseURL: 'https://tradecafe58-d616c-default-rtdb.firebaseio.com/'
+    databaseURL: ''
 });
 
 
